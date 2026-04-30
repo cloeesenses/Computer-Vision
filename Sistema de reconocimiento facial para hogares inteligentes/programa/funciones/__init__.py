@@ -1,0 +1,2 @@
+from funciones.perfiles import registrar_nuevo_perfil
+from funciones.hogar_inteligente import acceder_hogar
