@@ -1,0 +1,4 @@
+from funciones.asistencias import ejecutar_sistema_asistencia
+
+
+ejecutar_sistema_asistencia()
